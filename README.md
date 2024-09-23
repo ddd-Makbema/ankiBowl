@@ -11,8 +11,8 @@ Add [Anki Connect](https://foosoft.net/projects/anki-connect/index.html) :
 
 Here you choose which version you need. <br />
 ankiBowl sends the cards to "ankiConnect" <br />
-ankiBowl_ian sends the cards to "Quiz Bowl" <br />
-ankiBowl_configurable sends the cards to wherever you choose<br />
+ankiBowl_ian sends the cards to "Quiz Bowl" (not currently working) <br />
+ankiBowl_configurable sends the cards to wherever you choose (not currently working) <br />
 
 
 4. Download [ankiBowl.exe](ankiBowl.exe)
