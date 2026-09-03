@@ -1,6 +1,7 @@
 # ankiBowl
 imports quizbowl questions as anki cards
-
+## ankiBowl_latin
+allows anki card generation through the command line
 
 Install:
 
@@ -16,6 +17,7 @@ ankiBowl_configurable sends the cards to wherever you choose (not currently work
 
 
 4. Download [ankiBowl.exe](ankiBowl.exe)
-5. run it and follow the instructions
+4b. For ankibowl_latin, download then entire dist folder and run the .exe from that or run ankiBowl_latin.py with all dependencies installed
+6. run it and follow the instructions
 
 <b> Make a new deck called "ankiConnect" <b>
