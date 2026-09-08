@@ -29,7 +29,6 @@ while running:
     answer = input("Input the latin (principle parts or nom/gen) or type exit: ")
     if answer == "exit":
         break
-    questions = input("Input the english: ")
+    question = input("Input the english: ")
     
-    for question in questions[:-1]:
-        addCard(question, answer)
+    addCard(question, answer)
