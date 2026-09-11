@@ -31,4 +31,4 @@ while running:
         break
     question = input("Input the english: ")
     
-    addCard(question, answer)
+    addCard(answer, question)
